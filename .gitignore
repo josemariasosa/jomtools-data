@@ -107,7 +107,3 @@ venv.bak/
 .DS_Store
 
 # End of https://www.gitignore.io/api/python
-
-# Files in jomtools
-interactions.csv
-items.csv
